@@ -1,0 +1,78 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "meat-block:block/spoiled_meat_block"
+      },
+      {
+        "model": "meat-block:block/spoiled_meat_block",
+        "x": 90
+      },
+      {
+        "model": "meat-block:block/spoiled_meat_block",
+        "x": 180
+      },
+      {
+        "model": "meat-block:block/spoiled_meat_block",
+        "x": 270
+      },
+      {
+        "model": "meat-block:block/spoiled_meat_block",
+        "y": 90
+      },
+      {
+        "model": "meat-block:block/spoiled_meat_block",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "meat-block:block/spoiled_meat_block",
+        "x": 180,
+        "y": 90
+      },
+      {
+        "model": "meat-block:block/spoiled_meat_block",
+        "x": 270,
+        "y": 90
+      },
+      {
+        "model": "meat-block:block/spoiled_meat_block",
+        "y": 180
+      },
+      {
+        "model": "meat-block:block/spoiled_meat_block",
+        "x": 90,
+        "y": 180
+      },
+      {
+        "model": "meat-block:block/spoiled_meat_block",
+        "x": 180,
+        "y": 180
+      },
+      {
+        "model": "meat-block:block/spoiled_meat_block",
+        "x": 270,
+        "y": 180
+      },
+      {
+        "model": "meat-block:block/spoiled_meat_block",
+        "y": 270
+      },
+      {
+        "model": "meat-block:block/spoiled_meat_block",
+        "x": 90,
+        "y": 270
+      },
+      {
+        "model": "meat-block:block/spoiled_meat_block",
+        "x": 180,
+        "y": 270
+      },
+      {
+        "model": "meat-block:block/spoiled_meat_block",
+        "x": 270,
+        "y": 270
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+	"schemaVersion": 1,
+	"id": "meat-block",
+	"version": "${version}",
+	"name": "The Meat Block Mod",
+	"description": "Adds 2 new blocks: the Raw Meat Block and the Cooked Meat Block.",
+	"authors": [
+		"MrChumbucket"
+	],
+	"contact": {
+		"sources": "https://github.com/Peanut-Dev/the-meat-block-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/meat-block/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"mrchumbucket.meatblock.MeatBlock"
+		],
+		"client":[
+			"mrchumbucket.meatblock.MeatBlockClient"
+		]
+	},
+	"mixins": [
+		"meat-block.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
