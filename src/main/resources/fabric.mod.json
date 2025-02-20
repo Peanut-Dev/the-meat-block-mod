@@ -3,7 +3,7 @@
 	"id": "meat-block",
 	"version": "${version}",
 	"name": "The Meat Block Mod",
-	"description": "Adds 2 new blocks: the Raw Meat Block and the Cooked Meat Block.",
+	"description": "Adds 3 new blocks: the Raw Meat Block, the Spoiled Meat Block and the Cooked Meat Block.",
 	"authors": [
 		"MrChumbucket"
 	],
