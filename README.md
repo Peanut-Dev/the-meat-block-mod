@@ -35,4 +35,3 @@ Can also be placed, but does not behave similarly to the raw and spoiled meat bl
 [![Curseforge](https://badges.penpow.dev/badges/available/curseforge/cozy-minimal.svg)](https://curseforge.com/minecraft/mc-mods/the-meat-block-mod)
 [![Modrinth](https://badges.penpow.dev/badges/available/modrinth/cozy-minimal.svg)](https://modrinth.com/mod/the-meat-block-mod)
 [![GitHub](https://badges.penpow.dev/badges/available/github/cozy-minimal.svg)](https://github.com/Peanut-Dev/the-meat-block-mod)
-[![discord](https://badges.penpow.dev/badges/social/discord-singular/cozy-minimal.svg)](https://discord.gg/TyfPRCrJ9E)
