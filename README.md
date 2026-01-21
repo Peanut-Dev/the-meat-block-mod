@@ -1,7 +1,5 @@
 ### About
 
-***
-
 The Meat Block Mod adds 3 new blocks: the Raw Meat Block, the Spoiled Meat Block and the Cooked Meat Block.
 
 ***
